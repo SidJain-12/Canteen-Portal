@@ -1,14 +1,45 @@
-# Assignment 1
-
 # MERN Stack
+## Installations
+
+### Node
+
+* For Linux:
+```
+curl -sL https://deb.nodesource.com/setup_13.x | sudo -E bash -
+sudo apt-get install -y nodejs
+```
+
+* For Mac:
+```
+brew install node
+```
+
+### MongoDB
+
+Install the community edition [here](https://docs.mongodb.com/manual/installation/#mongodb-community-edition-installation-tutorials).
 
 
-## Bonus Attempted
+### React
+
+```
+npm install -g create-react-app
+```
+
+* To create a new React app:
+```
+create-react-app name_of_app
+```
+
+* To run the app, cd into the directory and do:
+```
+npm start
+```
+
+## Extra features
 
 * Email to the buyers on acceptance/rejection of their order.
 
 * Graphs to visualise batch-wise, age-wise distribution of completed orders.
-
 
 
 ## Installations
@@ -51,3 +82,10 @@ npm start
 ```
 
 Navigate to [http://localhost:3000/](http://localhost:3000/) in your browser.
+
+
+## Running the dockerfiles on local
+
+```
+docker-compose up --build
+```
