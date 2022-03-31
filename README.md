@@ -53,7 +53,7 @@ npm i emailjs-com
 
 ###  Chart MUI
 
-*For Linux in your frontend:
+* For Linux in your frontend:
 ```
 npm i @devexpress/dx-react-chart-material-ui
 ```
