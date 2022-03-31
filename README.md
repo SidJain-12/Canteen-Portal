@@ -2,10 +2,6 @@
 
 # MERN Stack
 
-## Soveet Kumar Nayak 
-## 2020101086
-
-
 
 ## Bonus Attempted
 
